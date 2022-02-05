@@ -2,7 +2,7 @@
 
 ## I'm a Student, Dota Player, Developer, and Night Owl!!
 
-- 🔭 Self Leaner, Night Owl, and persevering boy  
+- 🔭 Self Leaner, Night Owl, and Persevering boy  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Open for job, freelancer, projects
 - 🥅 2022 Goals: Get a brand new full-hd IPS monitor
