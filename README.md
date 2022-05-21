@@ -5,7 +5,7 @@
 - 🔭 Self Leaner, Night Owl, and Persevering boy  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Open for job, freelancer, projects
-- 🥅 2022 Goals: Get a brand new full-hd IPS monitor
+- 🥅 2022 Goals: i just want to be happy :)
 
 ### Connect with me:
 
