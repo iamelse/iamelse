@@ -1,13 +1,15 @@
-### Hi there, I'm Lana - aka [iamelse][website] 👋
+# Hi there, I'm Lana - aka [Iamelse][website] 👋
 
 ## I'm a Student, Dota Player, Developer, and Night Owl!!
 
 - 🔭 Self Leaner, Night Owl, and Persevering boy  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Open for job, freelancer, projects
+- 📫Reach me? lana.septiana2@gmail.com
+- 😄 Pronouns: He/Him <br>
 - 🥅 2022 Goals: i just want to be happy :)
 
-### Connect with me:
+## Connect with me:
 
 [<img align="left" alt="iamelse.rf.gd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="iamelse | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
@@ -15,15 +17,13 @@
 
 <br />
 
-### Languages and Tools:
+## Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
-<img align="left" alt="Bootstrap" width="26px" src="https://getbootstrap.com/docs/5.0/assets/img/favicons/apple-touch-icon.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="MySQL" width="26px" src="https://img.icons8.com/color/50/000000/mysql-logo.png" />
-<img align="left" alt="Laravel" width="26px" src="https://laravel.com/img/logomark.min.svg" />
-<img align="left" alt="CodeIgniter" width="26px" src="https://img.icons8.com/color/48/000000/fire-element--v1.png" />
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,php,laravel,mysql,vscode,git" />
+  </a>
+</p>
 
 <br />
 <br />
