@@ -1,6 +1,8 @@
-# Hi there, I'm Lana - aka [Iamelse][website] 👋
+# Hi there, I'm [Lana Septiana][website] 👋
 
-## I'm a Student, Dota Player, Developer, and Night Owl!!
+<h3>
+  Student | Dota Player | Developer | Night Owl!!
+</h3>
 
 - 🔭 Self Leaner, Night Owl, and Persevering boy  
 - 🌱 I’m currently learning everything 🤣
