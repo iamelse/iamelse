@@ -4,6 +4,7 @@
   Student | Dota Player | Developer | Night Owl!!
 </h3>
 
+- 🇮🇩  Indonesia
 - 🔭 Self Leaner, Night Owl, and Persevering boy  
 - 🌱 I’m currently learning everything 🤣
 - 👯 Open for job, freelancer, projects
