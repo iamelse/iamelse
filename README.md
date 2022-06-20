@@ -12,6 +12,11 @@
 - 😄 Pronouns: He/Him <br>
 - 🥅 2022 Goals: i just want to be happy :)
 
+<br>
+
+![github stats](https://github-readme-stats.vercel.app/api?username=iamelse&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=iamelse&layout=compact&theme=nightowl)
+
 ## Connect with me:
 
 [<img align="left" alt="iamelse.rf.gd" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
@@ -19,9 +24,6 @@
 [<img align="left" alt="iamelse | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
-
-![github stats](https://github-readme-stats.vercel.app/api?username=iamelse&show_icons=true&theme=radical)
-![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=iamelse&layout=compact&theme=nightowl)
 
 ## Languages and Tools:
 
