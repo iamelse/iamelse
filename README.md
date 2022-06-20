@@ -20,6 +20,9 @@
 
 <br />
 
+![github stats](https://github-readme-stats.vercel.app/api?username=iamelse&show_icons=true&theme=radical)
+![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=iamelse&layout=compact&theme=nightowl)
+
 ## Languages and Tools:
 
 <p align="center">
